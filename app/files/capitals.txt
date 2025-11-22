@@ -1,0 +1,38 @@
+ 
+Andhra Pradesh  Capitals Is  Amaravati
+Arunachal Pradesh  Capitals Is  Itanagar
+Assam  Capitals Is  Dispur
+Bihar  Capitals Is  Patna
+Chhattisgarh  Capitals Is  Raipur
+Goa  Capitals Is  Panaji
+Gujarat  Capitals Is  Gandhinagar
+Haryana  Capitals Is  Chandigarh
+Himachal Pradesh  Capitals Is  Shimla (Summer), Dharamshala (Winter)
+Jharkhand  Capitals Is  Ranchi
+Karnataka  Capitals Is  Bengaluru
+Kerala  Capitals Is  Thiruvananthapuram
+Madhya Pradesh  Capitals Is  Bhopal
+Maharashtra  Capitals Is  Mumbai (Summer), Nagpur (Winter)
+Manipur  Capitals Is  Imphal
+Meghalaya  Capitals Is  Shillong
+Mizoram  Capitals Is  Aizawl
+Nagaland  Capitals Is  Kohima
+Odisha  Capitals Is  Bhubaneswar
+Punjab  Capitals Is  Chandigarh
+Rajasthan  Capitals Is  Jaipur
+Sikkim  Capitals Is  Gangtok
+Tamil Nadu  Capitals Is  Chennai
+Telangana  Capitals Is  Hyderabad
+Tripura  Capitals Is  Agartala
+Uttar Pradesh  Capitals Is  Lucknow
+Uttarakhand  Capitals Is  Dehradun (Winter), Gairsain (Summer)
+West Bengal  Capitals Is  Kolkata 
+Union Territories and  Capitals Is
+Andaman and Nicobar Islands  Capitals Is  Port Blair
+Chandigarh  Capitals Is  Chandigarh
+Dadra and Nagar Haveli and Daman and Diu  Capitals Is  Daman
+Delhi (National Capital Territory)  Capitals Is  New Delhi
+Jammu and Kashmir  Capitals Is  Srinagar (Summer), Jammu (Winter)
+Ladakh  Capitals Is  Leh
+Lakshadweep  Capitals Is  Kavaratti
+Puducherry  Capitals Is  Pondicherry 

@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+.vscode/
+*.sqlite3
+.idea/
+/.vs
+/app/country/66a90d09-1033-4b0d-b4b9-88eda48e288f
+/__azurite_db_blob_extent__.json
+/__azurite_db_blob__.json

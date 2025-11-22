@@ -1,0 +1,4 @@
+#Chroma dependencies
+chromadb
+opentelemetry-sdk
+opentelemetry-exporter-otlp

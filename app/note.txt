@@ -1,0 +1,17 @@
+chroma run
+Connect to Chroma at: http://localhost:8000
+Getting started guide: https://docs.trychroma.com/docs/overview/getting-started
+
+☁️ To deploy your DB - try Chroma Cloud!
+- Sign up: https://trychroma.com/signup
+- Docs: https://docs.trychroma.com/cloud/getting-started
+
+chroma login
+
+chroma db connect country --env-file
+chroma db connect --path ./country
+
+cloud client
+api key
+tenant
+database name
